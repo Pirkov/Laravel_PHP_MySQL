@@ -1,0 +1,16 @@
+body {
+    background: linear-gradient (to right, rgba(132,128,194,1),rgba(177,177,218),rgba(0,212,255,1)); 
+    height: 100%;
+}
+
+.tr, .td {
+    text-shadow: 2px 2px 8px black;
+}
+
+.card-header, .card-body {
+    border-style: double;
+}
+
+.table {
+    border-style: solid
+}

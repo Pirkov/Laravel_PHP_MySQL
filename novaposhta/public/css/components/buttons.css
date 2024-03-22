@@ -1,0 +1,20 @@
+.btn-soft-success {
+    background-color: green; 
+    height: 40px; width: 50px;
+    box-shadow: 5px 8px 8px green;
+}
+
+.btn-soft-danger {
+    background-color:red; 
+    height: 40px; width: 50px;
+    box-shadow: 5px 8px 8px red;
+}
+
+.btn  {
+    margin-left: 10px;
+    text-shadow: 2px 2px 8px black;
+}
+
+.btn-outline-info {
+    text-shadow: 2px 2px 8px black;
+}
